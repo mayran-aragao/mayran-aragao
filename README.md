@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayran-aragao
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning React native, nodejs, JS,postgresql
+- 👀 I’m a mobile developer
+- 🌱 I’m currently working with React native, Nodejs, JS, TS, postgresql, Unit test, E2E, Redux, etc...
 - 💞️ I’m looking to collaborate on some project to use my knowledge and improve my skills.
 - 📫 You can reach me on mayran_aragao@hotmail.com
 
